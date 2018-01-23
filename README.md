@@ -1,2 +1,2 @@
 # hugoSite
-make a blog
+Someday lambci will work on this repo!
