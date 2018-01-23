@@ -1,3 +1,3 @@
 echo starting build script
-apt-get install s3cmd
+s3cmd put ./artifacts/syncme s3://hugosite-artifacts
 echo build script complete
