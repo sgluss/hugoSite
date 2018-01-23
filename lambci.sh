@@ -1,5 +1,5 @@
-echo starting build script
+echo "Starting build script"
 pip install --user s3cmd
-echo "\n*** pip installed! ***\n"
+echo "*** pip installed! ***"
 s3cmd put ./artifacts/syncme s3://hugosite-artifacts
-echo build script complete
+echo "Build script complete"
