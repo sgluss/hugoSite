@@ -1,3 +1,3 @@
-echo starting build script
+echo "starting build script"
 sudo apt-get install s3cmd
-echo build script complete
+echo "build script complete"
