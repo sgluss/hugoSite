@@ -1,0 +1,2 @@
+# hugoSite
+make a blog
