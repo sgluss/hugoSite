@@ -2,6 +2,10 @@ echo "*** Starting build script ***"
 echo "*** awscli installing! ***"
 pip install awscli --upgrade --user
 
+echo "*** Installing Hugo! ***"
+npm init --yes
+npm install hugo --save-dev
+
 echo "*** Verifying Hugo! ***"
 hugo -h
 cd ..
