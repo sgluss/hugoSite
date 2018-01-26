@@ -4,6 +4,8 @@ pip install awscli --upgrade --user
 
 echo "*** Installing Hugo! ***"
 npm install hugo-cli
+echo "*** Verifying Hugo! ***"
+hugo -h
 
 echo "*** copying files to AWS S3! ***"
 aws s3 cp artifacts/syncme s3://hugosite-artifacts
