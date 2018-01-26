@@ -3,10 +3,7 @@ echo "*** awscli installing! ***"
 pip install awscli --upgrade --user
 
 echo "*** Installing Hugo! ***"
-cd /tmp/lambci/build/sgluss
-npm init --yes
-npm install hugo-cli
-cd node_modules/hugo-cli/
+apt-get install hugo
 ls
 
 echo "*** Verifying Hugo! ***"
