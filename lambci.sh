@@ -2,11 +2,6 @@ echo "*** Starting build script ***"
 echo "*** awscli installing! ***"
 pip install awscli --upgrade --user
 
-echo "*** Installing Go! ***"
-pip install go --upgrade --user
-echo "*** Where is Go?! ***"
-pip show go
-
 echo "*** Getting Govendor! ***"
 /tmp/lambci/home/.local/lib/python2.7/site-packages/go/bin/go get github.com/kardianos/govendor
 echo "*** Getting Hugo! ***"
