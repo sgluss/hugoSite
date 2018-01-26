@@ -7,12 +7,13 @@ pip install go --upgrade --user
 echo "*** Where is Go?! ***"
 pip show go
 
+ls $PYTHONPATH
 echo "*** Getting Govendor! ***"
 /tmp/lambci/home/.local/lib/python2.7/site-packages/go/bin/go get github.com/kardianos/govendor
 echo "*** Getting Hugo! ***"
 govendor get github.com/gohugoio/hugo
 echo "*** Installing Hugo! ***"
-/tmp/lambci/home/.local/lib/python2.7/site-packages/go/bingo install github.com/gohugoio/hugo
+/tmp/lambci/home/.local/lib/python2.7/site-packages/go/bin/go install github.com/gohugoio/hugo
 
 echo "*** copying files to AWS S3! ***"
 aws s3 cp artifacts/syncme s3://hugosite-artifacts
