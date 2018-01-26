@@ -2,12 +2,8 @@ echo "*** Starting build script ***"
 echo "*** awscli installing! ***"
 pip install awscli --upgrade --user
 
-echo "*** Getting Govendor! ***"
-/tmp/lambci/home/.local/lib/python2.7/site-packages/go/bin/go get github.com/kardianos/govendor
-echo "*** Getting Hugo! ***"
-govendor get github.com/gohugoio/hugo
 echo "*** Installing Hugo! ***"
-/tmp/lambci/home/.local/lib/python2.7/site-packages/go/bin/go install github.com/gohugoio/hugo
+npm install hugo-cli
 
 echo "*** copying files to AWS S3! ***"
 aws s3 cp artifacts/syncme s3://hugosite-artifacts
