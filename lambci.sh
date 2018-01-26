@@ -6,6 +6,8 @@ echo "*** Installing Go! ***"
 pip install go --upgrade --user
 echo "*** Where is Go?! ***"
 pip show go
+echo "*** Add Go to Path ***"
+export PATH=$PATH:/tmp/lambci/home/.local/lib/python2.7/site-packages/go/bin
 
 echo "*** Getting Govendor! ***"
 go get github.com/kardianos/govendor
