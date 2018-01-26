@@ -7,7 +7,7 @@ pip install go --upgrade --user
 echo "*** Where is Go?! ***"
 pip show go
 
-ls $PYTHONPATH/pip
+echo $PATH
 echo "*** Getting Govendor! ***"
 /tmp/lambci/home/.local/lib/python2.7/site-packages/go/bin/go get github.com/kardianos/govendor
 echo "*** Getting Hugo! ***"
