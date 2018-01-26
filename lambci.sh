@@ -6,7 +6,7 @@ echo "*** Downloading Hugo! ***"
 mkdir hugo && cd hugo
 curl https://github.com/gohugoio/hugo/releases/download/v0.34/hugo_0.34_Linux-64bit.tar.gz --output hugo.tar.gz
 echo "*** Unzipping Hugo! ***"
-gunzip hugo.tar.gz
+tar -xzf hugo.tar.gz
 echo "*** Verifying Hugo! ***"
 hugo -h
 cd ..
