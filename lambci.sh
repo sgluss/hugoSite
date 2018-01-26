@@ -6,6 +6,7 @@ echo "*** Installing Hugo! ***"
 npm install hugo-cli
 npm install hugo
 echo "*** Verifying Hugo! ***"
+ls /tmp/node_modules
 hugo -h
 
 echo "*** copying files to AWS S3! ***"
