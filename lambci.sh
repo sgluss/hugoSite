@@ -6,7 +6,7 @@ echo "*** Installing Hugo! ***"
 cd /tmp/lambci/build/sgluss
 npm init --yes
 npm install hugo-cli
-cd node_modules/hugo-cli/bin
+cd node_modules/hugo-cli/
 ls
 
 echo "*** Verifying Hugo! ***"
