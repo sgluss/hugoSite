@@ -4,7 +4,7 @@ pip install awscli --upgrade --user
 
 echo "*** Installing Hugo! ***"
 npm init --yes
-npm install hugo
+npm install hugo -g
 
 echo "*** Verifying Hugo! ***"
 hugo -h
