@@ -4,6 +4,9 @@ pip install awscli --upgrade --user
 
 echo "*** Installing Go! ***"
 pip install go --upgrade --user
+echo "*** Where is Go?! ***"
+pip show go
+
 echo "*** Getting Govendor! ***"
 go get github.com/kardianos/govendor
 echo "*** Getting Hugo! ***"
