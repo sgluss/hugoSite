@@ -2,11 +2,6 @@ echo "*** Starting build script ***"
 echo "*** awscli installing! ***"
 pip install awscli --upgrade --user
 
-echo "*** Downloading Hugo! ***"
-mkdir hugo && cd hugo
-curl -O https://github.com/gohugoio/hugo/releases/download/v0.34/hugo_0.34_Linux-64bit.tar.gz
-echo "*** Unzipping Hugo! ***"
-tar -xvzf hugo_0.34_Linux-64bit.tar.gz
 echo "*** Verifying Hugo! ***"
 hugo -h
 cd ..
