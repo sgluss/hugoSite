@@ -5,8 +5,8 @@ pip install awscli --upgrade --user
 echo "*** Installing Hugo! ***"
 cd /tmp/lambci/build/sgluss
 npm init --yes
-npm install hugo
-cd node_modules/hugo/bin
+npm install hugo-cli
+cd node_modules/hugo-cli/bin
 ls
 
 echo "*** Verifying Hugo! ***"
