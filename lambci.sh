@@ -3,10 +3,8 @@ echo "*** awscli installing! ***"
 pip install awscli --upgrade --user
 
 echo "*** Installing Hugo! ***"
-npm install hugo-cli
-npm install hugo
+npm install --prefix=~/lambdaTestFunction hugo-cli
 echo "*** Verifying Hugo! ***"
-ls /tmp/node_modules
 hugo -h
 
 echo "*** copying files to AWS S3! ***"
