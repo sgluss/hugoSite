@@ -3,6 +3,7 @@ echo "*** awscli installing! ***"
 pip install awscli --upgrade --user
 
 echo "*** Testing Packaged Hugo! ***"
+cd %LAMBDA_TASK_ROOT%
 ls
 ./hugo -h
 
