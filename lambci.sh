@@ -3,7 +3,6 @@ echo "*** awscli installing! ***"
 pip install awscli --upgrade --user
 
 echo "*** Testing Packaged Hugo! ***"
-cd /var/task
 ls
 ./hugo -h
 
