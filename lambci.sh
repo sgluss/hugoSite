@@ -16,6 +16,9 @@ cd /tmp/hugo
 echo "what's in hugo?"
 ls
 
+echo "install hugo for tar.gz"
+tar -xzf hugo_0.36_Linux-64bit.tar.gz
+
 echo "*** Verifying Hugo! ***"
 hugo -h
 cd ..
