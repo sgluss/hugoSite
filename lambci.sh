@@ -10,7 +10,6 @@ echo "*** Install hugo from tar.gz ***"
 tar -xzf /tmp/hugo/$HUGO_RELEASE.tar.gz
 
 echo "*** Verifying Hugo! ***"
-./tmp/hugo/$HUGO_RELEASE/hugo -h
 ls /tmp/hugo/$HUGO_RELEASE/
 
 echo "*** copying files to AWS S3! ***"
