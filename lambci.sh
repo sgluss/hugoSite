@@ -1,10 +1,8 @@
 echo "*** Starting build script ***"
-echo "*** awscli installing! ***"
-pip install awscli --upgrade --user
 
-echo "*** Testing Packaged Hugo! ***"
+echo "*** Checking /var/task/ ***"
+echo cd /var/task/
 echo ls
-./hugo -h
 
 echo "*** Verifying Hugo! ***"
 hugo -h
