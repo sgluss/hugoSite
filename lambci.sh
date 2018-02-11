@@ -6,20 +6,16 @@ echo "*** Starting build script ***"
 echo "*** Copying hugo to tmp ***"
 cp -R /var/task/hugo /tmp/
 
-echo "*** try running hugo for the hell of it! ***"
-./hugo -h
-
 echo "*** Install hugo from tar.gz ***"
 tar -xzf /tmp/hugo/$HUGO_RELEASE.tar.gz
 
 echo "*** Verifying Hugo! ***"
-ls /tmp/hugo/$HUGO_RELEASE/
-
-echo "*** try running hugo for the hell of it! ***"
-./hugo -h
+./hugo version
 
 echo "*** copying files to AWS S3! ***"
 aws s3 cp artifacts/syncme s3://hugosite-artifacts
+
 echo "*** Environment Variables***"
 printenv
+
 echo "*** Build script complete ***"
