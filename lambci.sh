@@ -1,31 +1,15 @@
-echo "*** Starting build script ***"
+HUGO_RELEASE = "hugo_0.36_Linux-64bit"
 
-echo "*** Checking /var/task/ ***"
-cd /var/task/
-ls
+echo "*** Starting build script ***"
 
 echo "*** Copying hugo to tmp ***"
 cp -R /var/task/hugo /tmp/
 
-echo "*** Going to tmp hugo dir ***"
-cd /tmp
-echo "*** Contents of tmp ***"
-ls
-cd /tmp/hugo
-
-echo "*** What's in hugo? ***"
-ls
-
 echo "*** Install hugo from tar.gz ***"
-tar -xzf hugo_0.36_Linux-64bit.tar.gz
-ls
-cd hugo_0.36_Linux-64bit
-
-echo "*** Contents of hugo release: ***"
-ls
+tar -xzf /tmp/hugo/$HUGO_RELEASE.tar.gz
 
 echo "*** Verifying Hugo! ***"
-./hugo -h
+./tmp/hugo/$HUGO_RELEASE/hugo -h
 
 echo "*** copying files to AWS S3! ***"
 aws s3 cp artifacts/syncme s3://hugosite-artifacts
