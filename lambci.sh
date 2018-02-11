@@ -1,4 +1,4 @@
-HUGO_RELEASE = "hugo_0.36_Linux-64bit"
+HUGO_RELEASE="hugo_0.36_Linux-64bit"
 
 echo "*** Starting build script ***"
 
