@@ -6,6 +6,9 @@ echo "*** Starting build script ***"
 echo "*** Copying hugo to tmp ***"
 cp -R /var/task/hugo /tmp/
 
+echo "*** try running hugo for the hell of it! ***"
+./hugo -h
+
 echo "*** Install hugo from tar.gz ***"
 tar -xzf /tmp/hugo/$HUGO_RELEASE.tar.gz
 
