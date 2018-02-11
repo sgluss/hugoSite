@@ -1,4 +1,5 @@
 HUGO_RELEASE="hugo_0.36_Linux-64bit"
+echo "hugo dir will be /tmp/hugo/"$HUGO_RELEASE
 
 echo "*** Starting build script ***"
 
@@ -10,6 +11,7 @@ tar -xzf /tmp/hugo/$HUGO_RELEASE.tar.gz
 
 echo "*** Verifying Hugo! ***"
 ./tmp/hugo/$HUGO_RELEASE/hugo -h
+ls /tmp/hugo/$HUGO_RELEASE/
 
 echo "*** copying files to AWS S3! ***"
 aws s3 cp artifacts/syncme s3://hugosite-artifacts
