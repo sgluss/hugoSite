@@ -1,8 +1,8 @@
 echo "*** Starting build script ***"
 
 echo "*** Checking /var/task/ ***"
-echo cd /var/task/
-echo ls
+cd /var/task/
+ls
 
 echo "*** Verifying Hugo! ***"
 hugo -h
