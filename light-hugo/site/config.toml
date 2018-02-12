@@ -1,0 +1,15 @@
+baseurl = "https://www.samgluss.com/"
+themesDir = "../.."
+languageCode = "en-us"
+theme = "light-hugo"
+
+title = "Sam Homepage"
+author = "Samuel Gluss"
+copyright = "© Copyright 2018 Samuel Gluss"
+
+[Params]
+  description = "Sam's Home on the Internet"
+  email = "sgluss@outlook.com"
+  github = "sgluss"
+  linkedin = "sgluss"
+  logo = "/images/logo.jpg"
