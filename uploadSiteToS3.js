@@ -22,7 +22,7 @@ const uploadDir = function(s3Path, bucketName) {
         let bucketPath = filePath.substring(s3Path.length + 1)
 		
 		let file = fs.readFileSync(filePath)
-		console.log(file.mimetype)
+		console.log(file)
 		
         let params = {
 			Bucket: bucketName, 
