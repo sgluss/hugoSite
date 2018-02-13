@@ -1,10 +1,18 @@
 echo "*** Verify AWS CLI ***"
-aws --version
+node /var/task/node_modules/aws-cli/bin/aws.js --version
 
 HUGO_RELEASE="hugo_0.36_Linux-64bit"
+AWS_RELEASE="aws-cli-1.14.37"
+
 echo "hugo dir will be /tmp/hugo/"$HUGO_RELEASE
 
 echo "*** Starting build script ***"
+
+echo "*** Install awscli from tar.gz ***"
+tar -xzf /var/task/awscli/$AWS_RELEASE.tar.gz 
+
+echo "*** Verifying awscli! ***"
+aws --version
 
 echo "*** Copying hugo to tmp ***"
 cp -R /var/task/hugo /tmp/
