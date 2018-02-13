@@ -5,12 +5,12 @@ AWS_RELEASE="aws-cli-1.14.37"
 
 echo "hugo dir will be /tmp/hugo/"$HUGO_RELEASE
 
-echo "*** Copying hugo to tmp ***"
+echo "*** Copying awscli to tmp ***"
 cp -R /var/task/awscli /tmp/
-ls /tmp/awscli/
 
 echo "*** Install awscli from tar.gz ***"
 tar -xzf /tmp/awscli/$AWS_RELEASE.tar.gz 
+ls /tmp/awscli/
 
 echo "*** Verifying awscli! ***"
 ./aws --version
