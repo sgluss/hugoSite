@@ -21,10 +21,9 @@ const uploadDir = function(s3Path, bucketName) {
     walkSync(s3Path, function(filePath, stat) {
         let bucketPath = filePath.substring(s3Path.length + 1)
 		
-		console.log(`*** filePath: ${filePath} ***`)
-		let extension = filePath.split('.').slice(-1)
-		console.log(`*** fileExtension: ${extension} ***`)
-		
+
+		let extension = filePath.split('.').slice(-1)[0]
+
         let params = {
 			Bucket: bucketName, 
 			Key: bucketPath, 
