@@ -21,14 +21,14 @@ const uploadDir = function(s3Path, bucketName) {
     walkSync(s3Path, function(filePath, stat) {
         let bucketPath = filePath.substring(s3Path.length + 1)
 		
-		let contentType
+		let file = fs.readFileSync(filePath)
 		
         let params = {
 			Bucket: bucketName, 
 			Key: bucketPath, 
-			Body: fs.readFileSync(filePath),
+			Body: file,
 			ACL: 'public-read',	// make bucket contents readable so people can see the site
-			ContentType: 'text/html'
+			ContentType: file.mimetype,
 		}
         s3.putObject(params, function(err, data) {
             if (err) {
