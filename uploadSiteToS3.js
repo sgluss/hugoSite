@@ -4,7 +4,7 @@ const fs = require('fs');
 
 const uploadDir = function(s3Path, bucketName) {
 
-    let s3 = new AWS.S3();
+    let s3 = new AWS.S3({apiVersion: '2006-03-01'});
 
     function walkSync(currentDirPath, callback) {
         fs.readdirSync(currentDirPath).forEach(function (name) {
@@ -21,15 +21,11 @@ const uploadDir = function(s3Path, bucketName) {
     walkSync(s3Path, function(filePath, stat) {
         let bucketPath = filePath.substring(s3Path.length + 1)
 		
-		let file = fs.readFileSync(filePath)
-		console.log(file)
-		
         let params = {
 			Bucket: bucketName, 
 			Key: bucketPath, 
-			Body: file,
-			ACL: 'public-read',	// make bucket contents readable so people can see the site
-			ContentType: file.mimetype,
+			Body: fs.readFileSync(filePath),
+			ACL: 'public-read'	// make bucket contents readable so people can see the site
 		}
         s3.putObject(params, function(err, data) {
             if (err) {
