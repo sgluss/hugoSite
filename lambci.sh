@@ -13,6 +13,7 @@ tar -xzf /tmp/awscli/$AWS_RELEASE.tar.gz
 ls /tmp/awscli/
 
 echo "*** Verifying awscli! ***"
+pip install awscli --user
 ./aws --version
 
 echo "*** Copying hugo to tmp ***"
