@@ -1,3 +1,6 @@
+echo "installing AWS CLI"
+pip install aws-cli
+
 HUGO_RELEASE="hugo_0.36_Linux-64bit"
 echo "hugo dir will be /tmp/hugo/"$HUGO_RELEASE
 
