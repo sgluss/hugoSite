@@ -9,8 +9,8 @@ echo "*** Copying awscli to tmp ***"
 cp -R /var/task/awscli /tmp/
 
 echo "*** Install awscli from tar.gz ***"
-tar -xzvf /tmp/awscli/$AWS_RELEASE.tar.gz 
-ls /tmp/awscli/
+tar -xzf /tmp/awscli/$AWS_RELEASE.tar.gz 
+ls AWS_RELEASE
 
 echo "*** Verifying awscli! ***"
 ./aws --version
