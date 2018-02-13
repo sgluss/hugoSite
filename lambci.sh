@@ -14,6 +14,7 @@ ls /tmp/awscli/
 
 echo "*** Verifying awscli! ***"
 ./aws --version
+~/.local/bin/aws --version
 
 echo "*** Copying hugo to tmp ***"
 cp -R /var/task/hugo /tmp/
