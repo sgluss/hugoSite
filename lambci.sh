@@ -11,7 +11,7 @@ cp -R /var/task/awscli /tmp/
 echo "*** Install awscli from tar.gz ***"
 tar -xzf /tmp/awscli/$AWS_RELEASE.tar.gz 
 ls $AWS_RELEASE
-python install $AWS_RELEASE/setup.py
+python $AWS_RELEASE/setup.py
 
 echo "*** Verifying awscli! ***"
 ./aws --version
