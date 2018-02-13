@@ -1,6 +1,6 @@
 echo "installing AWS CLI"
-pip install awscli --upgrade --user
-./aws --version
+npm install -g aws-cli
+aws --version
 
 HUGO_RELEASE="hugo_0.36_Linux-64bit"
 echo "hugo dir will be /tmp/hugo/"$HUGO_RELEASE
@@ -20,6 +20,6 @@ echo "*** Building site with Hugo! ***"
 ./hugo -s light-hugo/site
 
 echo "*** copying files to AWS S3! ***"
-./aws s3 cp light-hugo/site/public s3://hugosite-artifacts --recursive
+aws s3 cp light-hugo/site/public s3://hugosite-artifacts --recursive
 
 echo "*** Build script complete ***"
