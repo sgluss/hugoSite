@@ -1,5 +1,4 @@
-echo "installing AWS CLI"
-npm install aws-cli
+echo "*** Verify AWS CLI ***"
 aws --version
 
 HUGO_RELEASE="hugo_0.36_Linux-64bit"
