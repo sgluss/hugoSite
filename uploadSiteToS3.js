@@ -26,7 +26,7 @@ const uploadDir = function(s3Path, bucketName) {
 			Key: bucketPath, 
 			Body: fs.readFileSync(filePath),
 			ACL: 'public-read',	// make bucket contents readable so people can see the site
-			ContentType: "text/html; charset=UTF-8",
+			ContentType: 'html',
 		}
         s3.putObject(params, function(err, data) {
             if (err) {
