@@ -7,6 +7,7 @@ echo "hugo dir will be /tmp/hugo/"$HUGO_RELEASE
 
 echo "*** Copying hugo to tmp ***"
 cp -R /var/task/awscli /tmp/
+ls /tmp/awscli/
 
 echo "*** Install awscli from tar.gz ***"
 tar -xzf /tmp/awscli/$AWS_RELEASE.tar.gz 
