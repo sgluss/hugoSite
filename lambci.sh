@@ -15,7 +15,7 @@ echo "*** Verifying Hugo! ***"
 ./hugo version
 
 echo "*** Building site with Hugo! ***"
-./hugo -s light-hugo/site
+./hugo -s samHomePage
 
 echo "*** Copying Hugo artifacts to AWS S3! ***"
 node uploadSiteToS3.js
