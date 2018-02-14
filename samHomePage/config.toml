@@ -1,0 +1,20 @@
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
+buildDrafts = false
+
+baseURL = ""
+relativeurls = true
+
+languageCode = "en-us"
+title = "Sam's Homepage"
+theme = "after-dark"
+
+[params]
+  author = "Samuel Gluss"
+
+[[menu.main]]
+  name = "Home"
+  weight = 1
+  identifier = "posts"
+  url = "/"
