@@ -42,4 +42,4 @@ const uploadDir = function(s3Path, bucketName) {
     })
 }
 
-uploadDir('light-hugo/site/public', 'hugosite-artifacts');
+uploadDir('samHomePage/public', 'hugosite-artifacts');
