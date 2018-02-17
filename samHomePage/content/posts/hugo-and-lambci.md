@@ -31,11 +31,11 @@ You also need a GitHub repo for `project`, along with an AWS account.
 The default configuration utilizes Node. The interpreter will execute the script designated as the handler at the root of your repo.  
 **TODO::screenshot of interpreter/handler selection screen in AWS lambda config**  
 I used the following code in lambci.json to set a shell script to executable, and run it:
-```
+{{< highlight js >}}
 {
   "cmd": "chmod +x lambci.sh && ./lambci.sh"
 }
-```
+{{< / highlight >}}
 Note that whatever handler you choose should be located in your repo base dir. In this case, my shell script `lambci.sh` is in the repo base as well.
 
 I chose to do the heavy lifting in this shell script. If I do this again, I'll probably select Python over Node (Python is very well suited to these OS/shell automation tasks, and I'm more comfortable with it), and do the entire build process in the Python handler script.
@@ -111,13 +111,13 @@ You have some options here:
 
 #### aws-cli
 using aws-cli or a comparable tool is appealing because the command to syncronize your work is dead simple:
-```
+{{< highlight shell >}}
 aws s3 cp yourSite/public s3://hugosite-artifacts --recursive
-```
+{{< / highlight >}}
 there are some pros and cons to this approach. The pro is that it's really easy to use, and sometimes easy to install. This command worked with certain Lambda interpreter settings:
-```
+{{< highlight shell >}}
 pip install awscli --upgrade --user
-```
+{{< / highlight >}}
 And, there are cons: pip refused to install aws-cli when I tried to build with Node6.10. On top of that, aws-cli requires several dependencies, so it can be a heavy thing to install on the environment unless you will use it really extensively.
 
 I had a devil of a time packaging aws-cli into my Lambda env, it was not as (relatively) painless as Hugo. It's not clear why this is, but it caused me to use the built in SDK instead.
