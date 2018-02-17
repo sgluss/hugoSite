@@ -10,6 +10,8 @@ languageCode = "en-us"
 title = "Sam's Homepage"
 theme = "after-dark"
 
+pygmentsStyle = "monokai"
+
 [params]
   author = "Samuel Gluss"
 
