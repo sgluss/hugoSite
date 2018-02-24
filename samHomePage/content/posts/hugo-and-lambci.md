@@ -152,4 +152,4 @@ What comes to mind is [AWS CloudFront](https://aws.amazon.com/cloudfront/) which
 Well, if the boot fits.
 
 ### **Credits Roll**
-Big thanks to Tyler Bacon for helping me troubleshoot AWS IAM and S3 settings. Find him at [bacon.io](bacon.io)
+Big thanks to Tyler Bacon for helping me troubleshoot AWS IAM and S3 settings. Find him at [tyler.bacon.io](https://tyler.bacon.io/)
