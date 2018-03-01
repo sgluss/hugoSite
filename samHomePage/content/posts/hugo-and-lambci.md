@@ -28,8 +28,10 @@ You also need a GitHub repo for `project`, along with an AWS account.
 ### **Setting Up Lambci**
 [Follow the instructions here to get a GitHub token and launch the CloudFormation Stack in AWS](https://github.com/lambci/lambci#installation)
 
-The default configuration utilizes Node. The interpreter will execute the script designated as the handler at the root of your repo.  
-**TODO::screenshot of interpreter/handler selection screen in AWS lambda config**  
+The default configuration utilizes Node. The interpreter will execute the script designated as the handler at the root of your repo.
+  
+![Configure Lambda](https://s3-us-west-1.amazonaws.com/samgluss.net/img/lambci-hugo/lambdaSetup.png "Set up Lambda interpeter and init file")
+
 I used the following code in lambci.json to set a shell script to executable, and run it:
 {{< highlight js >}}
 {
@@ -73,8 +75,8 @@ Building the package:
 3. in `lambciPackage/lambci` run `npm install` to get all lambci dependencies  
 4. grab the latest Hugo_X.XX.X_Linux-64bit.tar.gz from [here](https://github.com/gohugoio/hugo/releases) and put it in `lambciPackage/lambci`  
 5. zip up`lambciPackage/lambci` so that `package.json` is at the zip root  
-6. upload the zip package to the lambda function  
-**TODO:: screenshot the package upload**  
+6. upload the zip package to the lambda function (see the above image of the lambci-build lambda configuration to see where this should be uploaded)
+
 You can now use this prepackaged Hugo tar inside your Lambda Environment  
 
 ### **Doing Something Useful With LambCI**
