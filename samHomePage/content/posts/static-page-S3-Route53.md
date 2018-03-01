@@ -1,7 +1,7 @@
 ---
 title: "Static Page S3 Route53"
 date: 2018-02-28T22:04:13-08:00
-draft: true
+draft: false
 type: "post"
 
 author: "Samuel Gluss"
