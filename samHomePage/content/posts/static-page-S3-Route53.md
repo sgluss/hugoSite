@@ -10,7 +10,10 @@ author: "Samuel Gluss"
 # Hosting A Static Page on AWS S3 with Route53
 So yes, I should get out more and try some Google cloud services maybe. Next week, I swear.
 
-In the meantime, why would you want to host your static page on Route53? Well, it's easy enough, albeit with the usual AWS idiosyncracies. I was able to reserve this domain for just 11 bucks a year, so the price is right. Finally, I can keep my info relatively private (contact info is kept as private as possible, and they throw that in for free!)
+In the meantime, why would you want to host your static page on Route53? Well, it's easy enough, albeit with the usual AWS idiosyncracies. I was able to reserve this domain for just 11 bucks a year, so the price is right. 
+
+<!--more-->
+Finally, I can keep my info relatively private (contact info is kept as private as possible, and they throw that in for free!)
 
 First things first, go to Route53 in AWS console, and get yourself a shiny new domain.
 
