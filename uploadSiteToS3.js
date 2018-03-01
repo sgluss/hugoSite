@@ -42,4 +42,4 @@ const uploadDir = function(s3Path, bucketName) {
     })
 }
 
-uploadDir('samHomePage/public', 'hugosite-artifacts');
+uploadDir('samHomePage/public', 'samgluss.net');
