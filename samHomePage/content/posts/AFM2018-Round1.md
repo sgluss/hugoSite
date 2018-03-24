@@ -8,8 +8,11 @@ author: "Samuel Gluss"
 ---
 
 # **AFM 2018 Round 1 at Buttonwillow Raceway**
-After weeks of working on the bike, installing safety equipment, and getting the new front suspension in, I finally made it down to Buttonwillow raceway for my first ever motorcycle race event with AFM.
+After weeks of working on the bike, installing safety equipment, and getting the new front suspension in, I finally made it down to Buttonwillow raceway for my first ever motorcycle race event with AFM.  
 
+![AFM Start](https://s3-us-west-1.amazonaws.com/samgluss.net/img/afm/2018/r1/launch.jpg "Learning how launch, this is probably not the fastest way to do it")
+
+<!--more-->
 ## **Race 0 - Clubman Middleweight**
 This race got moved to Sunday morning due to rain.  
 The pavement was cold, but I was able to secure 3rd place in a phenomenal battle with #775 Nick Csik  
@@ -77,3 +80,7 @@ Huge Thanks go out to:
 **Brian Grabianowski** for being the best goddamn crew chief and drinking buddy a racer could ask for  
 **Dave Thomas and Jeanne Marie** for their hospitality (Dave rode to 3 podium finished himself!)  
 **Anayeli Mora** for her bottomless patience  
+
+## **Vendors**
+**Jim, Nickie and the team** at [Catalyst Suspension Tuning](https://www.crstuning.com/) for getting me a balanced suspension setup at the last minute, and always being supportive  
+**Pat** at [The Frame Man](http://www.motorcycleframeman.com/) for not asking too many questions about my disgusting rear wheel  
