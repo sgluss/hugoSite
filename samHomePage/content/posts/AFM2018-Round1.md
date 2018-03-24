@@ -76,7 +76,7 @@ I'm definitely feeling more ready for Round 2 April 14-15.
 ## **Credits roll:**
 Huge Thanks go out to:  
 **Rhett Whitehill** for helping me flush everything out of the van. Can't race if you can't get there!  
-**Mike Marocco** for spending his Friday night helping me get AFM-spec number plates in vinyl at the last possible minute  
+**Mike Marocco** for spending his Friday night helping me get AFM-spec number plates in vinyl at the last possible minute. find his other work here: https://www.instagram.com/rallygraphicswraps/    
 **Brian Grabianowski** for being the best goddamn crew chief and drinking buddy a racer could ask for  
 **Dave Thomas and Jeanne Marie** for their hospitality (Dave rode to 3 podium finished himself!)  
 **Anayeli Mora** for her bottomless patience  
