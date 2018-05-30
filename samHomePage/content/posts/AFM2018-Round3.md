@@ -1,7 +1,7 @@
 ---
 title: "AFM2018 Round3"
 date: 2018-05-28T07:34:21-07:00
-draft: true
+draft: false
 type: "post"
 
 author: "Samuel Gluss"
