@@ -26,7 +26,7 @@ Dave Moss taught me a useful trick to test for this state: simply press your thu
 
 I have since corrected my front/rear geometry bias, but that's a story for Round 5!
 
-The camera footage is shaky because the only replacement windscreen I could find was a spare from Dave Thomas's S1000RR!
+The camera footage is shaky because the only replacement windscreen I could find was a spare from Dave Thomas's S1000RR.
 
 ## **Clubman Middleweight**
 With the bike freshly fixed and (barely) teched, and a subframe pointed about 15 degrees to the right, I roll out for a warmup lap for Clubman Middle.
@@ -85,10 +85,10 @@ Note that AFM goofed up the grids, putting heavyweight behind our grid! No matte
 
 ## **Vendors**  
 [**HustleHard Racing**](https://hustlehardracing.com/) for saving my weekend with new grips and brake lines  
-[**Pro J's Cycles**](https://www.yelp.com/biz/pro-js-cycles-richmond) for getting me a replacement Vortex footpeg (they were the only ones who had one!)
-**Jim and Nickie** at [Catalyst Reaction](https://www.crstuning.com/) for making sure my forks were still in good shape, providing suspension setup support, and a brembo compatible banjo bolt!
-**Dave Moss** at [Dave Moss Tuning](https://davemosstuning.com/) for teaching me how to take care of a front tire, even though I brought him a beer he doesn't like!
+[**Pro J's Cycles**](https://www.yelp.com/biz/pro-js-cycles-richmond) for getting me a replacement Vortex footpeg (they were the only ones who had one!)  
+**Jim and Nickie** at [Catalyst Reaction](https://www.crstuning.com/) for making sure my forks were still in good shape, providing suspension setup support, and a brembo compatible banjo bolt!  
+**Dave Moss** at [Dave Moss Tuning](https://davemosstuning.com/) for teaching me how to take care of a front tire, even though I brought him a beer he doesn't like!  
 
 ## **Credits**
-**Dave Thomas** for lending me his spare windscreen, good for +5HP!
-**Brian Grabianowski** for being a phenomenal corner worker, crew chief, and drinking buddy
+**Dave Thomas** for lending me his spare windscreen, good for +5HP!  
+**Brian Grabianowski** for being a phenomenal corner worker, crew chief, and drinking buddy  
