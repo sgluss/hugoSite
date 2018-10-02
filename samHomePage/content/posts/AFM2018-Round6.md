@@ -11,7 +11,7 @@ author: "Samuel Gluss"
 # **AFM 2018 Round 6 at Sonoma Raceway**
 Coming into this round, I'd only been at Sonoma raceway two times before. However, over the summer I had taken trips to The Ridge in Olympia WA, and Oregon Raceway Park in Grass Valley OR. At these completely unknown circuits, I practiced a methodology of analyzing the track, and my approach to riding it, to improve as quickly as possible.  
 <!--more-->  
-At Sonoma, I was able to put this strategy to work to drop lap times as quickly as possible. This, combined with exceptional support from vendors, friends, and fellow racers, enabled me to achieve many new firsts for the season. I set the fastest lap time for any novice not on a literbike (1:56.20), scored the highest number of points I have ever scored in any race (600SS - 53 points), and scored the most points of any novice for the weekend (51).  
+At Sonoma, I was able to put this strategy to work to drop lap times as quickly as possible. This, combined with exceptional support from vendors, friends, and fellow racers, enabled me to achieve many new firsts for the season. I was just a few hundreths of a second off the fastest lap time for any novice not on a literbike (1:56.201 vs. Jacksons 1:56.198), scored the highest number of points I have ever scored in any race (600SS - 53 points), and scored the most points of any novice for the weekend (51).  
 
 ## **Clubman Middleweight**
 In the first run, I get a poor launch, and move up the field to chase #924 Jackson Burkhart, who runs off in turn 1 at the start of the second lap. However, the race is red flagged in the second lap, so we restart.  
