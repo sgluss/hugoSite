@@ -1,7 +1,7 @@
 ---
 title: "AFM2018 Round7"
 date: 2018-10-25T08:01:20-07:00
-draft: true
+draft: false
 type: "post"
 
 author: "Samuel Gluss"
@@ -50,7 +50,7 @@ Restart
 </video>
 
 ## **600 Superstock**
-
+Amazing battle with Nick, I forgot to turn the camera on until the second lap though!
 <video width="960" height="540" controls>
   <source src="https://s3-us-west-1.amazonaws.com/samgluss.net/vid/afm/2018/r7/600SS.webm" 
           type='video/webm'/>
@@ -58,7 +58,7 @@ Restart
 </video>
 
 ## **750 Superstock**
-
+Great battle with #775 Nick, #706 Hugo Peralta, #823 Robert Brittain, and #143 Jordan Edginton
 <video width="960" height="540" controls>
   <source src="https://s3-us-west-1.amazonaws.com/samgluss.net/vid/afm/2018/r7/750SS.webm" 
           type='video/webm'/>
