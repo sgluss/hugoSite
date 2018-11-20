@@ -9,10 +9,10 @@ author: "Samuel Gluss"
 
 # **AFM 2018 Round 7 at Thunderhill Raceway**
 The final round of the season, everyone was at the top of their game and there were lots of fresh racers at every level.  
-Everyone in the novice group was considerably faster than ever before, with new personal bests almost across the board.
+Everyone in the novice group was considerably faster than ever before, with new personal bests almost across the board.  
 <!--more-->  
-On Saturday morning I discovered a significant hole in my muffler. This was caused by the tumble the bike took in Round 4, and was melting the tail section. Thankfully between the handiwork of Jim at Catalyst Reaction, and an angle grinder borrowed from Frenchie, we were able to get the bike track ready by lunch.
-With the bike working well, and a high 1:56 in practice, I was definitely ready to do battle in the final round of the season!
+On Saturday morning I discovered a significant hole in my muffler. This was caused by the tumble the bike took in Round 4, and was melting the tail section. Thankfully between the handiwork of Jim at Catalyst Reaction, and an angle grinder borrowed from Frenchie, we were able to get the bike track ready by lunch.  
+With the bike working well, and a high 1:56 in practice, I was definitely ready to do battle in the final round of the season!  
 
 ## **Clubman Middleweight**
 An introduction to the brutal speed of the middleweight novices! I am able to secure 1st out of turn 1, and hold it until #775 Nick Csik secures first at the end of the second lap.
