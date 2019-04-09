@@ -37,8 +37,6 @@ I set a new PB of 1:56.9 on the shagged out rear tire by running smoother on the
 5	09.089	01:56.960
 
 
-
-
 ## **Sunday Race 5 -- Amateur SuperSport Middleweight**
 With a fresh Pirelli SC2 out back courtesy of [**CT Race Tires**](http://www.ctracetires.com/), I am ready to do battle again on the second day at Chuckwalla!  
 Things get fired up immediately with a tight battle against #119 Ty Bengford.  
@@ -46,9 +44,13 @@ Once clear, I move up the pack, and with a pass in the final corners of the last
 2	04.433	01:54.557
 
 ## **Sunday Race 10 -- Amateur SuperSport Open**
+I get a good launch into an early 2nd place, but the leader is nowhere to be found. I get track ahead to myself, but with nobody to pace my laptimes suffer somewhat.  
+#166 Jose Revelo overtakes me in the 4th lap, and I chase him to a 3rd place finish.
 3	25.745	01:56.298
 
 ## **Sunday Race 13 -- Amateur Formula Middleweight**
+I get a weak launch and move through the pack to 4th by the 2nd lap. I sneak past #629 Michael Mulloy in the 3rd lap, then set up behind the two leaders.  
+Unfortunately I can't get my laptimes back into the 54s, and I round out the weekend with a 3rd place finish.
 3  	11.825	01:55.547
 
 
