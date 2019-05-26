@@ -14,6 +14,8 @@ categories = ["racing"]
 <!--more-->  
 
 
+## **600 Superbike Red Flag**
+
 
 ## **600 Superbike**
 A relatively uneventful race despite the grid being stacked with some of the fastest talent on the west coast. I get a good launch but run a poor first lap.  
