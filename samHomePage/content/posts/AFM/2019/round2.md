@@ -1,11 +1,11 @@
 ---
 title: "Round2"
 date: 2019-04-20T09:39:15-07:00
-draft: true
+draft: false
 type: "post"
 author: "Samuel Gluss"
-tags = ["afm"]
-categories = ["racing"]
+tags: ["afm"]
+categories: ["racing"]
 ---
 
 # **AFM 2019 Round 2 at Buttonwillow Raceway**
@@ -59,3 +59,6 @@ I worry that I will burn myself out with the intensity of the riding, but the ad
 
 ## **600 Superstock and 750 Superbike**
 Due to what turns out to be a spark plug failure and critically low compression, it was not possible to run my final two races of the weekend. I picked the wrong round to leave the 600RR at home!
+
+## **Vendors**  
+[**CT Race Tires**](http://www.ctracetires.com/)     

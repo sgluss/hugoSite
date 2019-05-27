@@ -1,15 +1,17 @@
 ---
 title: "Round1"
 date: 2019-04-03T22:45:08-07:00
-draft: true
+draft: false
 type: "post"
 author: "Samuel Gluss"
-tags = ["afm"]
-categories = ["racing"]
+tags: ["afm"]
+categories: ["racing"]
 ---
 
 # **AFM 2019 Round 1 at Buttonwillow Raceway**
-Prepping for my first expert round of AFM was the usual medley of making rash decisions, then barely clearing timelines to get the bike ready in time. In the weeks leading up to the first round, I opted to change from the FlashTune system that was on my R6 to a Woolich reflash with Woolich's Race Tools. This package would allow me to use a strain gauge on the shift linkage for quick-shift, allowing me to tune the sensitivity of the ignition-kill for smoother shifting. Furthermore, the system enables auto-blip for easier down-shifting, as well as programmable launch control. All good stuff for racing fast bikes!  
+Prepping for my first expert round of AFM was the usual medley of making rash decisions, then barely clearing timelines to get the bike ready in time. In the weeks leading up to the first round, I opted to change from the FlashTune system that was on my R6 to a Woolich reflash with Woolich's Race Tools.  
+
+This package would allow me to use a strain gauge on the shift linkage for quick-shift, allowing me to tune the sensitivity of the ignition-kill for smoother shifting. Furthermore, the system enables auto-blip for easier down-shifting, as well as programmable launch control. All good stuff for racing fast bikes!  
 
 <!--more-->  
 
@@ -72,3 +74,4 @@ In the final lap I'm able to close it up and try to set up an overtake right at 
 
 ## **Vendors**
 **Marc and his team** at [FactoryPro](http://www.factorypro.com/) for being an absolute trooper with my R6 drama. His tune is smooth and powerful, with tremendous smoothness in part-throttle conditions as well as amazing throttle response!  
+[**CT Race Tires**](http://www.ctracetires.com/)  
