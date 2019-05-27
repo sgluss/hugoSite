@@ -22,21 +22,40 @@ I missed Sunday morning practice, but made a good run in 600SB and F1, despite s
 After finishing the FP race, the motor seems to have degraded too much to be usable. I shelve it, and discover later at home that I'd suffered ANOTHER spark plug failure (electrode broke off on another Denso plug) as well as catastrophic loss of compression on 3 cylinders. Oh well, at least motors are relatively cheap for this bike...  
 
 ## **600 Superbike Red Flag**
-
+<video width="960" height="540" controls>
+  <source src="https://s3-us-west-1.amazonaws.com/samgluss.net/vid/moto/racing/afm/2019/round2/600sb-redflag.webm" 
+          type='video/webm'/>
+  Video is incompatible with your browser
+</video>
 
 ## **600 Superbike**
 A relatively uneventful race despite the grid being stacked with some of the fastest talent on the west coast. I get a good launch but run a poor first lap.  
 I manage to get my laptimes down and claw my way to a 10th place finish.
+<video width="960" height="540" controls>
+  <source src="https://s3-us-west-1.amazonaws.com/samgluss.net/vid/moto/racing/afm/2019/round2/600sb.webm" 
+          type='video/webm'/>
+  Video is incompatible with your browser
+</video>
 
 ## **Formula 1**
 Starting from dead last in the expert grid, I am able to move up quickly to battle with many friends from the 2018 season: #775 Nick Csik, #966 Grant Cowan, and #124 Jackson Burkhart.
 Nick and I narrowly avoid an accident exiting sweeper. I press forward, finishing 11th.
+<video width="960" height="540" controls>
+  <source src="https://s3-us-west-1.amazonaws.com/samgluss.net/vid/moto/racing/afm/2019/round2/f1.webm" 
+          type='video/webm'/>
+  Video is incompatible with your browser
+</video>
 
 ## **Formula Pacific - Battle of Two Kings**
 As I roll onto the FP grid, the bike dies in my grid spot. I restart it at the 2 board, and engage the launch control. Another premier class race begins!  
 Another last-place start, I am able to jump into the pack with a solid launch. I get into a battle with #69 James King, and we are suddenly joined by #116 Jeremy King.  
 What ensues is the most exciting battle of the season so far! I am able to gain ground in the corners, but am no match for the overwhelming power of the large displacement bikes when the track opens up.  
 I worry that I will burn myself out with the intensity of the riding, but the adrenaline from the close engagement keeps me going strong to a 17th place finish when the race is red-flagged at the 8th lap due to a downed bike in the middle of the track.  
+<video width="960" height="540" controls>
+  <source src="https://s3-us-west-1.amazonaws.com/samgluss.net/vid/moto/racing/afm/2019/round2/fp.webm" 
+          type='video/webm'/>
+  Video is incompatible with your browser
+</video>
 
 ## **600 Superstock and 750 Superbike**
 Due to what turns out to be a spark plug failure and critically low compression, it was not possible to run my final two races of the weekend. I picked the wrong round to leave the 600RR at home!
