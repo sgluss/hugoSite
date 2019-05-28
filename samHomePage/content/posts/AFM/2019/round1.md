@@ -15,13 +15,13 @@ This package would allow me to use a strain gauge on the shift linkage for quick
 
 <!--more-->  
 
-Unfortunately, getting the system running as desired was less than entirely smooth. I opted to go with Marc of [FactoryPro](http://www.factorypro.com/) to get the tune done. I get a phone call from a frustrated Marc: "I've reflashed the ECU, now the bike doesn't start! I've tried everything!".  
+Unfortunately, getting the system running as desired was less than entirely smooth. I opted to go with Marc of [FactoryPro](http://www.factorypro.com/) to get the tune done. A day or two later, I get a phone call from a frustrated Marc: "I've reflashed the ECU, now the bike doesn't start! I've tried everything!".  
 
 So... the R6 strikes again! I drive up to Marc's shop in San Rafael, and check the bike out: it doesn't start, but cranks. I hop on the phone with FlashTune, and through their excellent customer service rep discover that the ECU must be repinned for the FlashTune to work! I get their install instructions, and discover that their ECU repin is incompatible with the Woolich flash. It strikes me as very impressive that these ECU flashes are able to completely repurpose the ECU hardware in this way.
 
 I borrow a screwdriver and a small pair of needlenose pliers from the FactoryPro staff, and set about re-pinning the ECU in the side yard, with the sunlight streaming through a beautiful day in Northern California. Once I have that done, I switch the bike on, thumb the starter, and.... "RRR RRR RRR BRRROOOOOM!" It starts right up!
 
-I head back over to Marc's office is apologize profusely for bringing this disorganized basket case into his house. He nods gruffly and says he'll call me back. I'll be leaving for round 1 in 4 days...
+I head back over to Marc's office to apologize profusely for bringing this disorganized basket case into his house. He nods gruffly and says he'll call me back. I'll be leaving for round 1 in 4 days...
 
 Thursday comes around, and I go to pick up the bike from Marc. Everything is running well, he has the fuel and spark maps tight as a drum! I go home and finish putting the bike together, then load the van, and hit the highway to Buttonwillow raceway.  
 
