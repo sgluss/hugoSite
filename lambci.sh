@@ -21,5 +21,3 @@ echo "*** Copying Hugo artifacts to AWS S3! ***"
 node uploadSiteToS3.js
 
 echo "*** Build script complete ***"
-
-exit -1
