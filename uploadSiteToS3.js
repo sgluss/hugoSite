@@ -39,7 +39,7 @@ const uploadDir = function(s3Path, bucketName) {
             }
         })
     })
-
+    return_state = 1
     return return_state
 }
 
