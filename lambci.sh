@@ -1,6 +1,6 @@
 echo "*** Starting build script ***"
 
-HUGO_RELEASE="hugo_0.36_Linux-64bit"
+HUGO_RELEASE="hugo_0.55.6_Linux-64bit"
 AWS_RELEASE="aws-cli-1.14.37"
 
 echo "hugo dir will be /tmp/hugo/"$HUGO_RELEASE
