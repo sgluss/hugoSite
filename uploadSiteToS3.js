@@ -43,4 +43,4 @@ const uploadDir = function(s3Path, bucketName) {
     return return_state
 }
 
-uploadDir('samHomePage/public', 'samgluss.net');
+return uploadDir('samHomePage/public', 'samgluss.net');
