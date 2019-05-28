@@ -21,7 +21,6 @@ const uploadDir = function(s3Path, bucketName) {
     walkSync(s3Path, function(filePath, stat) {
         let bucketPath = filePath.substring(s3Path.length + 1)
 		
-
 		let extension = filePath.split('.').slice(-1)[0]
 
         let params = {
@@ -34,6 +33,7 @@ const uploadDir = function(s3Path, bucketName) {
         s3.putObject(params, function(err, data) {
             if (err) {
                 console.log(err)
+                return 1
             } else {
                 console.log('Successfully uploaded '+ bucketPath +' to ' + bucketName)
             }
