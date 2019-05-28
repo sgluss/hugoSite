@@ -3,7 +3,7 @@ const path = require("path");
 const fs = require('fs');
 
 const uploadDir = function(s3Path, bucketName) {
-    let return_state = 0
+
     let s3 = new AWS.S3({apiVersion: '2006-03-01'});
 
     function walkSync(currentDirPath, callback) {
@@ -21,6 +21,7 @@ const uploadDir = function(s3Path, bucketName) {
     walkSync(s3Path, function(filePath, stat) {
         let bucketPath = filePath.substring(s3Path.length + 1)
 		
+
 		let extension = filePath.split('.').slice(-1)[0]
 
         let params = {
@@ -33,14 +34,13 @@ const uploadDir = function(s3Path, bucketName) {
         s3.putObject(params, function(err, data) {
             if (err) {
                 console.log(err)
-                return_state = 1
+                process.exit(1);
             } else {
                 console.log('Successfully uploaded '+ bucketPath +' to ' + bucketName)
             }
         })
+
     })
-    return_state = 1
-    return return_state
 }
 
-return uploadDir('samHomePage/public', 'samgluss.net');
+uploadDir('samHomePage/public', 'samgluss.net');
