@@ -32,7 +32,6 @@ const uploadDir = function(s3Path, bucketName) {
 			ContentType: extension,
 		}
         s3.putObject(params, function(err, data) {
-            err = "test"
             if (err) {
                 console.log(err)
                 process.exit(1);
