@@ -22,6 +22,7 @@ I missed Sunday morning practice, but made a good run in 600SB and F1, despite s
 After finishing the FP race, the motor seems to have degraded too much to be usable. I shelve it, and discover later at home that I'd suffered ANOTHER spark plug failure (electrode broke off on another Denso plug) as well as catastrophic loss of compression on 3 cylinders. Oh well, at least motors are relatively cheap for this bike...  
 
 ## **600 Superbike Red Flag**
+A short 2 lap run featuring #34 Sal Rizzo and #89 Adam Robarts
 <video width="960" height="540" controls>
   <source src="https://s3-us-west-1.amazonaws.com/samgluss.net/vid/moto/racing/afm/2019/round2/600sb-redflag.webm" 
           type='video/webm'/>
