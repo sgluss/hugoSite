@@ -18,7 +18,7 @@ This was my first time learning to race on a brand new track, and Chuckwalla was
 This was also a weekend of endings. It was my final weekend as a novice racer, as I would renew my AFM license the following month as an expert.  
 It was also my final round racing my 2007 CBR 600RR as my primary racebike. This machine has been a trusty steed all throughout my novice year, so it seemed fitting to let it leave it's mark on a new track and a new cohort of racers.
 
-Chuckwalla itself is a beautiful racetrack surrounded by mountain ranges. It is not unusual to see the military practicing maneuvers in the area, so the racing is broken up by paratroopers falling from the sky, or jets mock dogfighting in the skies above. At night, mysterious blinking lights move through the sky in silent formation as sausages roast on the grill.  
+Chuckwalla itself is a beautiful racetrack surrounded by mountain ranges. It is not unusual to see the military practicing maneuvers in the area, so the racing is broken up by paratroopers falling from the sky, or jets mock dogfighting in the skies above. At night, mysterious blinking lights move through the sky in silent formation as sausages roast on a grill surrounded by friends.  
 
 
 ## **Saturday Race 2 -- Amateur SuperSport Open**
