@@ -54,5 +54,7 @@ categories: ["racing"]
 </video>
 
 ## **Vendors**
-[**CT Race Tires**](http://www.ctracetires.com/)  
-**Marc and his team** at [FactoryPro](http://www.factorypro.com/) 
+[**CT Race Tires**](http://www.ctracetires.com/) for keeping me set up with the stickiest rubber
+**Marc Salvisberg** at [FactoryPro](http://www.factorypro.com/) for turning around a same-day tune which made big-kid power and rode smooth as butter.  
+**Jim and Nickie** at [Catalyst Reaction](https://www.crstuning.com/) for always supporting me, even when I do really dumb stuff like use a clip-style master link.  
+[**Dave Moss**](https://davemosstuning.com/) for thinking of completely outside-the-box solutions to my ergonomics issues, making the bike more comfortable and easy to ride!  
