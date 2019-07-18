@@ -16,7 +16,7 @@ categories: ["racing"]
 ## **600 Superbike**
 
 <video width="960" height="540" controls>
-  <source src="https://s3-us-west-1.amazonaws.com/samgluss.net/vid/moto/racing/afm/2019/round3/600SB.webm" 
+  <source src="https://s3-us-west-1.amazonaws.com/samgluss.net/vid/moto/racing/afm/2019/round3/600sb.mp4" 
           type='video/webm'/>
   Video is incompatible with your browser
 </video>
@@ -40,7 +40,7 @@ categories: ["racing"]
 ## **600 Superstock**
 
 <video width="960" height="540" controls>
-  <source src="https://s3-us-west-1.amazonaws.com/samgluss.net/vid/moto/racing/afm/2019/round3/600SS.webm" 
+  <source src="https://s3-us-west-1.amazonaws.com/samgluss.net/vid/moto/racing/afm/2019/round3/600ss.webm" 
           type='video/webm'/>
   Video is incompatible with your browser
 </video>
@@ -48,7 +48,7 @@ categories: ["racing"]
 ## **750 Superbike**
 
 <video width="960" height="540" controls>
-  <source src="https://s3-us-west-1.amazonaws.com/samgluss.net/vid/moto/racing/afm/2019/round3/750SS.webm" 
+  <source src="https://s3-us-west-1.amazonaws.com/samgluss.net/vid/moto/racing/afm/2019/round3/750ss.webm" 
           type='video/webm'/>
   Video is incompatible with your browser
 </video>
