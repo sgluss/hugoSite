@@ -55,7 +55,7 @@ I beat him to the line by 0.064 seconds, setting by best lap for the race of 1:5
 ## **Formula Pacific**
 The premier race, the big one! The big bikes rule at Thunderhill, and the FP pack is densely populated with massive horsepower. I roll out onto the grid with a new Pirelli SC0 tire on the rear, piping hot and ready to dig in against these one-liter monsters.  
 
-In this race I get into what ends up being a 12 lap battle with #712 Nick Allison, a Carters instructor and consummate gentleman. I get a thrilling front row seat to his fire-breathing ZX10r leave dark lines out of corners, accumulating tremendous speed in the straights.  
+In this race I get into what ends up being a 12 lap battle with #712 Nick Allison, a Carters instructor and consummate gentleman. I get a thrilling front row seat to his fire-breathing ZX10r leaving dark lines out of corners, accumulating tremendous speed in the straights.  
 
 We eventually reel in #251 Kaleb De Keyrel, and the more the merrier! I'm never really able to force an opening with either of the more powerful bikes, but I enjoyed looking for one regardless. We stayed tight to the end of the race, where I finished 12th and set a new Thunderhill East PB of 1:53.9, dropping nearly a full second from the morning! Maybe it was the SC0?
 <video width="960" height="540" controls>
@@ -91,5 +91,5 @@ Kaleb passes me again at the end of the third lap, and I'm unable to take the le
 [**Dave Moss**](https://davemosstuning.com/) for thinking of completely outside-the-box solutions to my ergonomics issues, making the bike more comfortable and easy to ride!  
 
 ## **Honorable Mentions**
-\#383 Robert McCoy for getting me hooked up with an 11th hour Will Morton built motor!
-\#966 Grant Cowan for helping me install aforementioned motor
+\#383 Robert McCoy for getting me hooked up with an 11th hour Will Morton built motor!  
+\#966 Grant Cowan for helping me install aforementioned motor  
