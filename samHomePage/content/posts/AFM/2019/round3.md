@@ -1,7 +1,7 @@
 ---
 title: "AFM2019 Round 3"
 date: 2019-07-17T00:10:19-07:00
-draft: true
+draft: false
 type: "post"
 
 author: "Samuel Gluss"
@@ -10,11 +10,23 @@ categories: ["racing"]
 ---
 
 # **AFM 2019 Round 3 at Thunderhill Raceway**
-- motor swap  
-Two weeks before this event began, I burned out the motor in my R6 at a Carters@thetrack trackday at Thunderhill East event.
-- engine tune
-- saturday struggles
+Two weeks before this event began, I burned out the motor in my R6 at a Carters@thetrack trackday at Thunderhill East event. Faced with an engine swap in just 9 days, and without any engine to swap in, I thought of this excerpt from Kevin Cameron's "Sportbike Performance Handbook": 
+
+"When in the course of your hard work, you become overtired, under motivated, and on the point of giving up and going to bed, you are confronting racing's Big Question, the one that confronts every single rider and crew member many times a year: Are you in, or are you out? There's no halfway in this game. So do it. Yes, it's 4 a.m., and the engine isn't in the chassis yet. Just keep on doing everything the best way you know how, carefully and one step at a time, because that machine has to roll out on time for practice"
+
+<img src="https://s3-us-west-1.amazonaws.com/samgluss.net/img/afm/2019/round3/sam/round3Podiums.jpg" width=1008 height=756 title="A Tiger finally earns its stripes")/>
+
 <!--more-->  
+
+On the Tuesday night before race weekend, Grant Cowan helped me get the motor in, and I got it running that night at 12:30 AM (sorry neighbors!). That morning I schlepped the beast up to [Factory Pro](http://www.factorypro.com/) in San Rafael to make sure there were no issues with the tune or fueling system that could have led to the fragged motors. The Man Himself, Marc Salvisberg, gave the motor a clean bill of health, and even unlocked a couple more horses in the midrange!
+
+After brainstorming a bit, we decided that the damage to the valves on the previous motor was likely the result of over-rev. The usual way this happens is by initiating downshifts too early in a corner. In my case it was a bit different, as the over-rev would occur mid corner, such as turn 7 at Thunderhill East, or the final corner in Esses at Buttonwillow config 13CW (the usual config run by AFM). In these corners, I would be at full throttle, and very close to the rev limiter (at the time, this was set to 16.4k RPM). The rear tire has a smaller circumference at its edge than at it's centerline, with the consequence that it produces a shorter effective final drive as lean angle increases.
+
+In laymans terms: engine RPM increases along with lean angle. So if you did something like enter a corner flat-out, at redline, then leaned the bike in... you could over-rev the motor considerably. My logs suggested over-rev on the order of 17.1-17.2k RPM in these corners! Marc reset my rev limiter to the stock 16k (the motor makes peak power at 14.7k RPM, so any revs much beyond that are just for making lots of noise). The principle issue, as Marc puts it, is that the gearing is wrong for those critical high-speed sectors, so in order to address the issue, I must either gear tall enough to avoid the rev limiter at lean, or gear short enough to make an additional upshift for that corner tractable. Time for more testing!
+
+With the bike in hand, I hurried home to get everything prepped for the weekend. Saturday rolled around, and I got down to figuring out how to defeat my standing PB for the year, a low 1:57 on my 600RR the previous weekend (on shagged tires and a tired motor, no less!). I struggled with the bike all day, never quite able to settle into a rhythm were I could carry the corner speed I needed to really get below the 57 mark. After lackluster times in practice, I botched my tire strategy, and ended up with no time to swap for fresh rubber for qualifying! I rolled out for qualifying on rubber I'd spent the whole day beating on... and finally set a low 1:57 in Formula 1 qualifying!
+
+This time would at least put the leaders on the near side of the horizon, but I was feeling a bit grim about my chances, since most of the top 10 in my classes had set sub 1:55 laptimes in practice. I had done all I could with the bike, so I turned to the usual Saturday night diversions of cold beverages, a hot grill, and good company. The races would sort themselves out Sunday, I reckoned.
 
 ## **600 Superbike**
 I get a great launch and am able to secure first place coming out of turn 1... my first ever holeshot in any race! The sensation of looking out towards turn 2 and seeing only daylight and farmland was immediately tempered by the awareness that I had two of the fastest middleweights in AFM breathing right up my tailpipe... #164 Cory Ventura and #6 Brandon Crawford. I'm able to hold them off for a half lap or so, then settle into 3rd place.  
@@ -77,3 +89,7 @@ Kaleb passes me again at the end of the third lap, and I'm unable to take the le
 **Marc Salvisberg** at [FactoryPro](http://www.factorypro.com/) for turning around a same-day tune which made big-kid power and rode smooth as butter.  
 **Jim and Nickie** at [Catalyst Reaction](https://www.crstuning.com/) for always supporting me, even when I do really dumb stuff like use a clip-style master link.  
 [**Dave Moss**](https://davemosstuning.com/) for thinking of completely outside-the-box solutions to my ergonomics issues, making the bike more comfortable and easy to ride!  
+
+## **Honorable Mentions**
+\#383 Robert McCoy for getting me hooked up with an 11th hour Will Morton built motor!
+\#966 Grant Cowan for helping me install aforementioned motor
