@@ -1,7 +1,7 @@
 ---
 title: "Round4"
 date: 2019-08-03T07:37:03-07:00
-draft: true
+draft: false
 type: "post"
 
 author: "Samuel Gluss"
