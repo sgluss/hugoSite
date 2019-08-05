@@ -11,17 +11,17 @@ categories: ["racing"]
 
 
 # **AFM 2019 Round 4 at Thunderhill Raceway**
-This round stood in contrast to round 3, primarily due to the far higher temperatures which reached up to 110F. I kept an eye on the pavement temperature, and saw it rise to almost 165F during racing! For me, the round was all about survival and consistency.  
+This round stood in contrast to round 3 due to the far higher temperatures which reached up to 110F. I kept an eye on the pavement temperature, and saw it rise to almost 165F during racing! For me, this round was all about consistency and survival.  
 
 <!--more-->  
 
-With such high temperatures, tire stability was becoming a real issue, and even engine temperatures were running much higher than usual. The motor's cooling system depends on the outside air to be cooler in order to take heat out of the coolant. With the track temp being so close to the engine's running temperature, I was seeing engine temperature rise higher than ever before.  
+As the action heated up, tire stability was becoming a real issue, and even engine temperatures were running much higher than usual. The motor's cooling system depends on the outside air to be cooler in order to take heat out of the coolant. With the track temp being so close to the engine's nominal operating temperature, I was seeing engine temperature rise higher than ever before.  
 
-On Saturday and Sunday, there were a couple nasty crashes, one for #360 Jayson Uribe, and one for #251 Kaleb De Keyrel. Both riders are OK, and recovering. Hope you guys are better soon!  
+On Saturday and Sunday, there were a couple nasty crashes. #360 Jayson Uribe had a nasty tumble Saturday, and #251 Kaleb De Keyrel went down Sunday. Both riders are OK, and recovering. Hope you guys are better soon!  
 
 For myself, it was my first time racing in such heat, and I found I was struggling quite a bit to maintain focus on the more strategic aspects of racing, like analysis of opponents, and figuring out where ideal overtake locations would be. I found it was taking everything I had just to manage the traction of my tires, and my own endurance.  
 
-The result is that, although I ran consistently in the 1:54s for laptimes, I was unable to set a new PB, and in battles I was often unable to press advantages in favor of keeping the bike under control. While I feel a bit dissatisfied with this, I am glad that both the bike and I made it to the end of the weekend with no major incident!  
+Although I ran consistently in the 1:54s for laptimes, I was unable to set a new PB. In battles I was often unable to press advantages in favor of keeping the bike under control. While I feel a bit dissatisfied with this, I am glad that both the bike and I made it to the end of the weekend with no major incidents!  
 
 Despite everything, this was actually my most successful weekend racing as an expert, with a 2nd place finish in 750 Superstock, and 3rd place finishes in 600 Superbike and Superstock!  
 
@@ -50,15 +50,15 @@ Our battle features guest appearances by #436 Gordon Pull, and Boldt, back for r
 </video>
 
 ## **Formula Pacific**
-FP is a 10 lap race, and with temperatures hovering between 106-108F, none of the tough guys are complaining. I fill up my suit with ice cubes, and miss the warm up lap. Amateur maneuver!
+FP is a 10 lap race for this round, and with temperatures hovering between 106-108F, none of the tough guys are complaining. I fill up my suit with ice cubes, and miss the warm up lap. Amateur maneuver!
 
 I launch off the 3rd row, surrounded by literbikes (and the gentleman #34 Sal Rizzo himself!). I run into turn 1 neck-and-neck with Sal, and overtake him into turn 2. Bringing the tires up to temperature in the first lap, I am behind #108 Kevin Murphy and #5 Jordan Edginton when #712 Nick Allison loses the rear coming down turn 5b, crashing out in a minor lowside.  
 
-Murphy and Edginton walk away from me by the second lap, and I'm left with my slowly boiling thoughts, 100+ horsepower, and slowly roasting tires. I glance at the temperature display on the back straight each lap, noting it tick up one or two degrees at a time. With pavement temperatures of 165F, the motor's cooling system is barely adequate to keep the coolant under boiling temperature.  
+Murphy and Edginton walk away from me by the second lap, and I'm left with my slowly boiling thoughts, 100+ horsepower, and gradually roasting tires. I glance at the temperature display on the back straight each lap, noting it tick up one or two degrees at a time. With pavement temperatures of 165F, the motor's cooling system is barely adequate to keep the coolant under boiling temperature.  
 
 I peer back at turn 9 periodically, and begin to notice a bike with a blue face winking at me from lap 5 onward. Is it getting closer? Could that be... #951 Dave Thomas?
 
-Not only is it Dave, he has the audacity to show me a wheel entering Turn 1 on the final lap! While that exhibition doesn't show in the video, I throw everything I have into that last lap. Luckily for me, Dave is struggling with braking issues, and I'm able to gap him enough in turns 14-15 to beat him to the line! I finish 7th, my first top-10 finish in Formula Pacific!  
+Not only is it Dave, he has the audacity to show me a wheel entering Turn 1 on the final lap! While that exhibition doesn't show up in the video, I throw everything I have into that last lap. Luckily for me, Dave is struggling with braking issues, and I'm able to gap him enough in turns 14-15 to beat him to the line! I finish 7th, my first top-10 finish in Formula Pacific!  
 <video width="960" height="540" controls>
   <source src="https://s3-us-west-1.amazonaws.com/samgluss.net/vid/moto/racing/afm/2019/round4/fp.mp4" 
           type='video/webm'/>
@@ -70,7 +70,7 @@ An exciting launch into turn 1 has me abreast of #15 Berto Wooldridge and #14 St
 
 This slows nothing down as we charge into turn 2, and I settle into 3rd as I steam after the top men. #153 Valentin Debise overtakes me on the outside of turn 3, and I struggle so stick with the top 3. Watch Debise stalk Berto and Rue for an overtake in turn 8, way to the inside. Despite being completely off-line for his run on 8, he *still* is able to draw level with both of them entering turn 9, and overtake entering turn 9 to take first. Debise is simply at another level entirely.  
 
-In the second lap, Wooldridge loses the rear and low-sides exiting turn 11. Rue politely avoiding running him over, moving up to second, and I take third. Luckily, both Wooldridge and his bike were relatively unscathed, and returned for battle in 750 Superstock. I spent the remaining duration of the race trying to chase Rue down, wondering what are the secrets to his motorcycling prowess and roguish good looks?
+In the second lap, Wooldridge loses the rear and low-sides exiting turn 11. Rue politely avoiding running him over, moving up to second, and I take third. Luckily, both Wooldridge and his bike were relatively unscathed, and returned for battle in 750 Superstock. I spent the remainder of the race trying to chase Rue down, while wondering what are the secrets to his motorcycling prowess and roguish good looks?
 <video width="960" height="540" controls>
   <source src="https://s3-us-west-1.amazonaws.com/samgluss.net/vid/moto/racing/afm/2019/round4/600ss.mp4" 
           type='video/webm'/>
@@ -78,7 +78,9 @@ In the second lap, Wooldridge loses the rear and low-sides exiting turn 11. Rue 
 </video>
 
 ## **750 Superbike**
-The final race of the day, and I was definitely contemplating the ice-cold beverages loaded in the paddock cooler as we drew up to the grid. I was pleased to see that #15 Berto Wooldridge was off my left shoulder, an amazingly fast recovery after his crash in the previous race. If only I had taken the inside line into 1, maybe I could have denied Berto the holeshot, but as it was, I settle in behind him for the duration of the race.  
+The final race of the day, and I was definitely contemplating the ice-cold beverages loaded in the paddock cooler as we drew up to the grid. I was pleased to see that #15 Berto Wooldridge was off my left shoulder, an amazingly fast recovery after his crash in the previous race.  
+
+If only I had taken the inside line into 1, maybe I could have denied Berto the holeshot. As it was, I was content to settle in behind him for the duration of the race.  
 
 I think everyone was ready for a cold drink, as the level of rambunctiousness was quite low. I ride to a clean 2nd place behind Wooldridge, pull it in, and hang it up. Round 4 is in the books!
 <video width="960" height="540" controls>
