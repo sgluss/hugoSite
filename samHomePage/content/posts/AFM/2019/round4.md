@@ -68,7 +68,9 @@ Not only is it Dave, he has the audacity to show me a wheel entering Turn 1 on t
 ## **600 Superstock**
 An exciting launch into turn 1 has me abreast of #15 Berto Wooldridge and #14 Stephen Rue. Rue jukes outward to avoid Berto, and we briefly touch as I move outward to give him space. Well, more of a caress but you'd have to ask Rue if that was acceptable!  
 
-This slows nothing down as we charge into turn 2, and I settle into 3rd as I steam after the top men.
+This slows nothing down as we charge into turn 2, and I settle into 3rd as I steam after the top men. #153 Valentin Debise overtakes me on the outside of turn 3, and I struggle so stick with the top 3. Watch Debise stalk Berto and Rue for an overtake in turn 8, way to the inside. Despite being completely off-line for his run on 8, he *still* is able to draw level with both of them entering turn 9, and overtake entering turn 9 to take first. Debise is simply at another level entirely.  
+
+In the second lap, Wooldridge loses the rear and low-sides exiting turn 11. Rue politely avoiding running him over, moving up to second, and I take third. Luckily, both Wooldridge and his bike were relatively unscathed, and returned for battle in 750 Superstock. I spent the remaining duration of the race trying to chase Rue down, wondering what are the secrets to his motorcycling prowess and roguish good looks?
 <video width="960" height="540" controls>
   <source src="https://s3-us-west-1.amazonaws.com/samgluss.net/vid/moto/racing/afm/2019/round4/600ss.mp4" 
           type='video/webm'/>
@@ -76,7 +78,9 @@ This slows nothing down as we charge into turn 2, and I settle into 3rd as I ste
 </video>
 
 ## **750 Superbike**
+The final race of the day, and I was definitely contemplating the ice-cold beverages loaded in the paddock cooler as we drew up to the grid. I was pleased to see that #15 Berto Wooldridge was off my left shoulder, an amazingly fast recovery after his crash in the previous race. If only I had taken the inside line into 1, maybe I could have denied Berto the holeshot, but as it was, I settle in behind him for the duration of the race.  
 
+I think everyone was ready for a cold drink, as the level of rambunctiousness was quite low. I ride to a clean 2nd place behind Wooldridge, pull it in, and hang it up. Round 4 is in the books!
 <video width="960" height="540" controls>
   <source src="https://s3-us-west-1.amazonaws.com/samgluss.net/vid/moto/racing/afm/2019/round4/750ss.mp4" 
           type='video/webm'/>
@@ -84,5 +88,5 @@ This slows nothing down as we charge into turn 2, and I settle into 3rd as I ste
 </video>
 
 ## **Vendors**
-[**CT Race Tires**](http://www.ctracetires.com/) for keeping me set up with the stickiest rubber
-**Jim and Nickie** at [Catalyst Reaction](https://www.crstuning.com/)
+[**CT Race Tires**](http://www.ctracetires.com/) for always helping me out with tire flipping so I can maintain my insane tire strategy    
+**Jim and Nickie** at [Catalyst Reaction](https://www.crstuning.com/) for turning around a shock rebuild when they were already busy, and helping me to get it dialed in at the track  
