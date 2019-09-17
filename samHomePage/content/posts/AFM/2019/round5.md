@@ -1,7 +1,7 @@
 ---
 title: "Round5"
 date: 2019-09-15T22:51:04-07:00
-draft: true
+draft: false
 type: "post"
 
 author: "Samuel Gluss"
@@ -19,9 +19,9 @@ A challenging track, now made moreso by the continuing degradation of the paved 
 
 It is against this backdrop that round 5 takes place. The fastest club racers on the west coast set out to duel, but their battle is not just against each other, but against the circuit's treachery as well. Friday practice was spent memorizing reference points and planning contigencies. In a race, you can't count on being on the optimal line, and Sonoma presents hazards in abundance to the unprepared.  
 
-In Saturday's practice I turned to the bike, trying to play with different settings to squeeze any extra confidence out of it. Jim of [Catalyst Reaction](https://www.crstuning.com/) was able to set me up with some A/B tests on the suspension which enabled me to control the bike better on exits, and to mitigate headshake.  
+In Saturday's practice I focused on setting up the bike, trying to play with different settings to squeeze any extra confidence out of it. Jim of [Catalyst Reaction](https://www.crstuning.com/) was able to set me up with some A/B tests on the suspension which enabled me to control the bike better on exits, and to mitigate headshake.  
 
-In qualifying Saturday, I did as well as I hoped, gridded up next to #768 Nick Lundquist on the front row for F1, and rightnext to #5 Jordan Edginton on the 3rd row for FP. With that out of the way, all that was left was to mount up a fresh rear tire, eat some sausages with the Carter's crew, and get a full nights sleep.  
+In qualifying Saturday, I did as well as I hoped, gridded up next to #768 Nick Lundquist on the front row for F1, and right next to #5 Jordan Edginton on the 3rd row for FP. With that out of the way, all that was left was to mount up a fresh rear tire, eat some hot sausages with the Carters crew, and get a full nights sleep.  
 
 
 ## **600 Superbike Red Flag**
