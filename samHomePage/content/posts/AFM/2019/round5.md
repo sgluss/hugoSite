@@ -12,12 +12,12 @@ categories: ["racing"]
 
 
 # **AFM 2019 Round 5 at Sonoma Raceway**
-Sonoma is a favorite track of mine, a winding course set in the hills among vineyards. It's sweepers, kinks and chicanes would present a challenge if they were flat. The addition of elevation change turns up the difficulty considerably: now you are doing an endo into a valley to make a left-hander. A previously trivial exit to a chicane now has a crest, throwing the steering head into the air, and with a wall not 50 feet away.  
+Sonoma is a favorite track of mine, a winding course set in the hills among vineyards. Its sweepers, kinks and chicanes would present a challenge if they were flat. The addition of elevation change turns up the difficulty considerably: now you are doing an endo into a valley to make a left-hander. A previously trivial exit to a chicane now has a crest, throwing the steering head into the air, and with a wall not 50 feet away.  
 
 A challenging track, now made moreso by the continuing degradation of the paved surface. Cracks which were large enough last year to warrant concern may now swallow a front contact patch entirely. Frost heaves threaten to bottom the suspension in Carousel, and a shelf drop-off in the middle of turn 7's first apex turns trail braking into a heroic affair.  
 <!--more-->  
 
-It is against this backdrop that round 5 takes place. The fastest club racers on the west coast set out to duel, but their battle is not just against each other, but against the circuit's treachery as well. Friday practice was spent memorizing reference points and planning contigencies. In a race, you can't count on being on the optimal line, and Sonoma presents hazards in abundance to the unprepared.  
+It is against this backdrop that round 5 takes place. The fastest club racers on the west coast set out to duel, but their battle is not just against each other, but against the circuit's treachery as well. Friday practice was spent memorizing reference points and planning contingencies. In a race, you can't count on being on the optimal line, and Sonoma presents hazards in abundance to the unprepared.  
 
 In Saturday's practice I focused on setting up the bike, trying to play with different settings to squeeze any extra confidence out of it. Jim of [Catalyst Reaction](https://www.crstuning.com/) was able to set me up with some A/B tests on the suspension which enabled me to control the bike better on exits, and to mitigate headshake.  
 
@@ -44,7 +44,7 @@ This crash occurred because I got a sloppy exit from turn 1, and tried to compen
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XKi_p0GWpuA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## **Formula Pacific**
-FP launches are always an event, and this one was no exception. I hurtle out of turn 1 to the outside of #765 Giya, and he his happy to help himself to turn 2 when I express some hesitation. #5 Jordan Edginton moves past me into t3, and from here I get to watch the two of them battle it out!  
+FP launches are always an event, and this one was no exception. I hurtle out of turn 1 to the outside of #765 Giya, and he his is happy to help himself to turn 2 when I express some hesitation. #5 Jordan Edginton moves past me into t3, and from here I get to watch the two of them battle it out!  
 
 What you can't see is that this entire race has #108 Kevin Murphy and #115 Garrett Pacheco right behind me the entire time! They finished just 2 and 3 seconds behind me, respectively. I should run a rear cam!  
 
