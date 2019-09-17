@@ -12,8 +12,16 @@ categories: ["racing"]
 
 
 # **AFM 2019 Round 5 at Sonoma Raceway**
+Sonoma is a favorite track of mine, a winding course set in the hills among vineyards. It's sweepers, kinks and chicanes would present a challenge if they were flat. The addition of elevation change turns up the difficulty considerably: now you are doing an endo into a valley to make a left-hander. A previously trivial exit to a chicane now has a crest, throwing the steering head into the air, and with a wall not 50 feet away.  
 
+A challenging track, now made moreso by the continuing degradation of the paved surface. Cracks which were large enough last year to warrant concern may now swallow a front contact patch entirely. Frost heaves threaten to bottom the suspension in Carousel, and a shelf drop-off in the middle of turn 7's first apex turns trail braking into a heroic affair.  
 <!--more-->  
+
+It is against this backdrop that round 5 takes place. The fastest club racers on the west coast set out to duel, but their battle is not just against each other, but against the circuit's treachery as well. Friday practice was spent memorizing reference points and planning contigencies. In a race, you can't count on being on the optimal line, and Sonoma presents hazards in abundance to the unprepared.  
+
+In Saturday's practice I turned to the bike, trying to play with different settings to squeeze any extra confidence out of it. Jim of [Catalyst Reaction](https://www.crstuning.com/) was able to set me up with some A/B tests on the suspension which enabled me to control the bike better on exits, and to mitigate headshake.  
+
+In qualifying Saturday, I did as well as I hoped, gridded up next to #768 Nick Lundquist on the front row for F1, and rightnext to #5 Jordan Edginton on the 3rd row for FP. With that out of the way, all that was left was to mount up a fresh rear tire, eat some sausages with the Carter's crew, and get a full nights sleep.  
 
 
 ## **600 Superbike Red Flag**
@@ -69,5 +77,6 @@ I chase Berto for the rest of the race, and I'm to exhausted to threaten him wit
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KV0vgdbHT4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## **Vendors**
-[**CT Race Tires**](http://www.ctracetires.com/)    
-**Jim and Nickie** at [Catalyst Reaction](https://www.crstuning.com/) for   
+[**CT Race Tires**](http://www.ctracetires.com/) For always having my back with the stickiest Pirelli tires, hot off the truck!  
+**Jim and Nickie** at [Catalyst Reaction](https://www.crstuning.com/) for providing so much suspension support and a calming voice  
+[Spidi USA](https://www.spidi.com/us_en/) and [Roseville Motorsports](https://www.roseville-motorsports.com/) for hooking me up with new Spidi gear, which ended up saving me from injury in my crash this round! I can't thank you guys enough! The suit was barely damaged after being dragged under the bike, and will be fully repaired by [Johnson Leathers](http://www.johnsonleather.com/)  
