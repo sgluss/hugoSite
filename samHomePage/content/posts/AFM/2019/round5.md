@@ -44,7 +44,7 @@ This crash occurred because I got a sloppy exit from turn 1, and tried to compen
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XKi_p0GWpuA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## **Formula Pacific**
-FP launches are always an event, and this one was no exception. I hurtle out of turn 1 to the outside of #765 Giya, and he his is happy to help himself to turn 2 when I express some hesitation. #5 Jordan Edginton moves past me into t3, and from here I get to watch the two of them battle it out!  
+FP launches are always an event, and this one was no exception. I hurtle out of turn 1 to the outside of #765 Giya, and he is happy to help himself to turn 2 when I express some hesitation. #5 Jordan Edginton moves past me into t3, and from here I get to watch the two of them battle it out!  
 
 What you can't see is that this entire race has #108 Kevin Murphy and #115 Garrett Pacheco right behind me the entire time! They finished just 2 and 3 seconds behind me, respectively. I should run a rear cam!  
 
