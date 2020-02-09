@@ -50,3 +50,4 @@ At 130 miles per hour, 1 millisecond translates to only 2.28 inches. This means 
 **Tazio Ottis and Bridgette LeBer** for cannibalizing Bridgette's bike for parts, and helping me get the needed parts swapped onto my bike during the lunch break.
 **Grant Cowan** For mechanical support, along with Tazio. These guys were the only reason the bike made it onto grid for F1, we got everything fixed with just 10 minutes to spare!
 **Dave Thomas and Jeanne Marie** Are my crack medical staff, whether I'm falling into a folding chair or off of a motorcycle.
+**#20 Michael Kim** For lending me the foot control components and fuel tank mount I needed to get back in the game!
