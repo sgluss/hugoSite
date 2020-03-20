@@ -17,23 +17,22 @@ categories: ["racing"]
 
 ## **600 Superbike**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkzDU1T8HlA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HgS9n4x8mvY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## **Formula 1**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XKi_p0GWpuA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kUw1RDHwE-Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## **Formula Pacific**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t2cLSXSviLU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XKn4U_pcxtk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## **600 Superstock**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z9jeY5F236U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+No video. That's how it goes, sometimes you get the bear, and sometimes you forget to turn the camera on.
 
 ## **750 Superbike**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KV0vgdbHT4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+An epic battle with #823 Rob Brittain for 3rd. Last race of the last round. I stick with Rob until I am able to secure an overtake in the second to last lap, finishing 3rd to Kaleb De Keyrel and Berto Wooldridge. That's that for AFM2019!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0mvY9mAErIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## **Vendors**
 [**CT Race Tires**](http://www.ctracetires.com/) 
