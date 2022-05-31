@@ -1,0 +1,3 @@
+[submodule "samHomePage/themes/after-dark"]
+	path = samHomePage/themes/after-dark
+	url = https://codeberg.org/vhs/after-dark.git

@@ -1,10 +1,9 @@
 ---
 author: "Samuel Gluss"
-date: 2018-02-12
+date: 2018-02-12T20:04:13-07:00
 linktitle: Hugo and Lambci
 menu: "Home"
 title: Getting Started With Hugo and Lambci
-weight: 10
 draft: false
 type: "post"
 ---

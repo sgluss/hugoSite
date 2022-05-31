@@ -1,0 +1,71 @@
+{
+  "_from": "fractal-forest",
+  "_id": "fractal-forest@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-XC6NblFPa3zDniDwtvof5Hn3+qLkc2JR8mXtm99UVkv7BqUfS6YKO4N1udwGr6WkYVk8qXyrX6B8KbxocNLL/A==",
+  "_location": "/fractal-forest",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "fractal-forest",
+    "name": "fractal-forest",
+    "escapedName": "fractal-forest",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/fractal-forest/-/fractal-forest-2.0.0.tgz",
+  "_shasum": "083c0bca2c8b2ed69d3303e61a059ae30b0a3a24",
+  "_spec": "fractal-forest",
+  "_where": "/home/sam/prj/sam/hugoSite/samHomePage",
+  "author": {
+    "name": "Josh Habdas",
+    "email": "jhabdas@protonmail.com"
+  },
+  "bundleDependencies": false,
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "deprecated": false,
+  "description": "Better Portable Graphics module for After Dark.",
+  "devDependencies": {
+    "commitizen": "^3.1.1",
+    "cz-conventional-changelog": "^2.1.0",
+    "standard-version": "^6.0.1"
+  },
+  "homepage": "https://after-dark.habd.as/module/fractal-forest/",
+  "keywords": [
+    "docker",
+    "hugo",
+    "wasm",
+    "bpg",
+    "asmjs"
+  ],
+  "license": "0BSD",
+  "name": "fractal-forest",
+  "peerDependencies": {
+    "after-dark": ">= 5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.habd.as/comfusion/fractal-forest.git"
+  },
+  "scripts": {
+    "commit": "npx git-cz",
+    "release": "standard-version",
+    "test": "while true; do head -n 100 /dev/urandom; sleep 0.1; done | hexdump -C | grep 'ca fe'"
+  },
+  "standard-version": {
+    "scripts": {
+      "posttag": "git tag --sign $(git describe --tags $(git rev-list --tags --max-count=1)) $(git describe --tags $(git rev-list --tags --max-count=1))^{} -f -m \"$(git log -1 --pretty=%B)\" -m \"-----BEGIN DIST INTEGRITY-----\" -m \"$(npm pack --dry-run --json . | grep integrity | cut -d ',' -f1 | cut -d ':' -f2 | tr -d '\" ')\" -m \"-----END DIST INTEGRITY-----\""
+    }
+  },
+  "version": "2.0.0"
+}
