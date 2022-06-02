@@ -12,17 +12,19 @@ categories: ["racing"]
 
 # **AFM 2019 Round 7 at Thunderhill Raceway**
 
-  <script src="js/spotlight.bundle.js"></script>
+  <script src="/js/spotlight.bundle.js"></script>
 <a class="spotlight" href="https://s3-us-west-1.amazonaws.com/samgluss.net/img/afm/2019/round7/will_toft/AFMR7Thill-Oct2019-0227.jpg">
     <img src="https://s3-us-west-1.amazonaws.com/samgluss.net/img/afm/2019/round7/will_toft/AFMR7Thill-Oct2019-0227.jpg">
 </a>
+
+<!--more-->  
+
 <a class="spotlight" href="https://s3-us-west-1.amazonaws.com/samgluss.net/img/afm/2019/round7/will_toft/AFMR7Thill-Oct2019-1691.jpg">
     <img src="https://s3-us-west-1.amazonaws.com/samgluss.net/img/afm/2019/round7/will_toft/AFMR7Thill-Oct2019-1691.jpg">
 </a>
 <a class="spotlight" href="https://s3-us-west-1.amazonaws.com/samgluss.net/img/afm/2019/round7/will_toft/AFMR7Thill-Oct2019-1745.jpg">
     <img src="https://s3-us-west-1.amazonaws.com/samgluss.net/img/afm/2019/round7/will_toft/AFMR7Thill-Oct2019-1745.jpg">
 </a>
-<!--more-->  
 
 
 ## **600 Superbike**
